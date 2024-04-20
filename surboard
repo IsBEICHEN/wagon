@@ -26,7 +26,7 @@ enhanced-mode-by-rule = true
 
 [Proxy Group]
 
-🚀 手动切换 = select, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, DIRECT, policy-path=https://api.nexconvert.com/sub?target=surfboard&url=请手动填写你的机场订阅&insert=false&emoji=false&list=true&tfo=false&scv=false&fdn=false&sort=false, interval=300, update-interval=86400
+🚀 手动切换 = select, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, DIRECT, policy-path=https://api.nexconvert.com/sub?target=surfboard&url=https://misaka0501.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=306a453f270d4fc5adf4d5b4e33c16c7&insert=false&emoji=false&list=true&tfo=false&scv=false&fdn=false&sort=false, interval=300, update-interval=86400
 
 #分流分组
 🌏 国外网站 = select, 🚀 手动切换, 🇭🇰 香港节点, 🇺🇸 美国节点, 🇸🇬 狮城节点, 🇯🇵 日本节点, 🇨🇳 台湾节点, DIRECT, no-alert=0, hidden=0
