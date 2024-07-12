@@ -17,8 +17,9 @@ DOMAIN-SUFFIX,embyplus.org
 #polo
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,polodns.xyz
-#cc
+#cc公益
 DOMAIN-SUFFIX,coemn.com
+DOMAIN,cc.coemn.com
 
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,285286.xyz
