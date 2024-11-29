@@ -4,6 +4,8 @@
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
+#星云
+DOMAIN-SUFFIX,nebula-media.org
 #卡戎
 DOMAIN-SUFFIX,charontv.com
 ##aca
