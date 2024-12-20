@@ -1,6 +1,8 @@
 # NAME: Emby
 # AUTHOR: wagon
 
+#L
+DOMAIN-SUFFIX,monisaiche.cn
 #lily
 DOMAIN,cfemby.lilyya.xyz
 DOMAIN-SUFFIX,lilyya.xyz
