@@ -2,8 +2,6 @@
 # AUTHOR: wagon
 
 
-DOMAIN,plex.20120714.xyz
-
 DOMAIN-SUFFIX,mobaiemby.site
 #pilipili
 DOMAIN-SUFFIX,pilipili.club
@@ -36,7 +34,7 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,polodns.xyz
 #cc公益
 DOMAIN-SUFFIX,coemn.com
-#土拨鼠ples
+#土拨鼠plex
 DOMAIN-SUFFIX,20120714.xyz
 #yomo
 #DOMAIN-SUFFIX,yomo.lol
